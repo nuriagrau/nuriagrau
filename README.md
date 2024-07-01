@@ -4,13 +4,17 @@
 **nuriagrau/nuriagrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+- 🌱 Learning **Java & SpringBoot**
+
+        I did CS50 and beat Tideman ;)
+
+- :dizzy: I have lived 9 years in Denmark and 6 months in London 
+
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Volunteered in London(F.A.D) & India(FVF)
+
+- :speech_balloon: Catalan, Spanish, English, French and beginner Danish
+
+
