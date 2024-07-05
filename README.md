@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 
         I did CS50 and beat Tideman ;)
 
-- :dizzy: I have lived 9 years in Denmark and 6 months in London 
-
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Volunteered in London(F.A.D) & India(FVF)
+- :dizzy: I have been living 9 years in Denmark and 6 months in London 
 
 - :speech_balloon: Catalan, Spanish, English, French and beginner Danish
 
