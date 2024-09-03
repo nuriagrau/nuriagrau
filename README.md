@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 Learning **Java & SpringBoot**
+- 🌱 Recently finished **BackEnd Java & SpringBoot** at IT Academy
 
         I did CS50 and beat Tideman ;)
 
