@@ -6,8 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-
-- 🌱 Recently finished **BackEnd Java & SpringBoot** at IT Academy
+- 🌱 Preparing **AWS Certified Developer Associate**
+  
+- :potted_plant: Recently finished **BackEnd Java & SpringBoot** at IT Academy
 
         I did CS50 and beat Tideman ;)
 
