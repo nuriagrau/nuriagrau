@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🌱 Preparing **AWS Certified Developer Associate**
   
-- :potted_plant: Recently finished **BackEnd Java & SpringBoot** at @IT Academy
+- :potted_plant: Recently finished **BackEnd Java & Spring Framework** at @IT Academy
 
         I did CS50 and beat Tideman ;)
 
