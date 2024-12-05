@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Contributing to **ITA Challenge Backend**
+- 🌱 Contributing to **ITA Challenges Backend**
   
 - :potted_plant: Recently finished **BackEnd Java & Spring Framework** at @IT Academy
 
