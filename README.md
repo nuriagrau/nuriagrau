@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Preparing **AWS Certified Developer Associate**
+- 🌱 Contributing to **ITA Challenge Backend**
   
 - :potted_plant: Recently finished **BackEnd Java & Spring Framework** at @IT Academy
 
